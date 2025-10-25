@@ -29,7 +29,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<video src="https://i.imgur.com/OMZXGu9.mp4" width="300" autoplay loop muted></video>
+<video src="https://i.imgur.com/OMZXGu9.gif" width="300" autoplay loop muted></video>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [Imgur](https://imgur.com)
