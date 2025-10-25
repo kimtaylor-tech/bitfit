@@ -30,7 +30,6 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 <video src="https://i.imgur.com/OMZXGu9.gif" width="300" autoplay loop muted></video>
-
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [Imgur](https://imgur.com)
 <!-- Recommended tools:
