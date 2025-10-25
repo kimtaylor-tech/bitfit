@@ -29,7 +29,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![App Walkthrough](https://i.imgur.com/https://imgur.com/a/W7Snzqo.gif)
+![App Walkthrough](https://i.imgur.com/https://imgur.com/a/3zYUaLG.gif)
 
 
 <!-- Replace this with whatever GIF tool you used! -->
